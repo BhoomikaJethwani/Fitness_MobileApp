@@ -1,4 +1,3 @@
-# Fitness_MobileApp
+# About the Fitness Tracking Mobile App
 
-## Fitness Tracking Mobile App, App to log workouts, save progress pictures & monitor progress in Android Studio
-A dmulti-threaded fitness app with user-friendly GUI, cloud-based DB, real-time updates and messaging.
+It is an interactive multi-threaded App with user-friendly GUI, cloud-basedDB, real-time updates and messaging to log workouts, save progress pictures & monitor progress in Android Studio
